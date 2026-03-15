@@ -4,7 +4,7 @@ You can paste this directly into **README.md**.
 
 ---
 
-# 📈 Market Intelligence Engine
+# 📈 Market Intelligence Analysis
 
 **Integrating Financial News Sentiment with Market Data for Short-Term Equity Return Analysis**
 
